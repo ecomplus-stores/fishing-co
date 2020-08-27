@@ -35,12 +35,14 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null
+      "collection_id": null,
+      "sort": "offers"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "headless": true
+      "headless": true,
+      "sort": "news"
     },
     {
       "type": "responsive-banner",
@@ -51,13 +53,17 @@
       "type": "collection-shelf",
       "shuffle": true,
       "title": "",
-      "headless": true
+      "headless": true,
+      "sort": "highest_price"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/dia-dos-pais-post-4.jpg"
+        },
+        {
+          "img": "/img/uploads/banner-dia-dos-pais-1.jpg"
         }
       ]
     },
