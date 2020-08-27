@@ -66,10 +66,6 @@
           "img": "/img/uploads/banner-dia-dos-pais-1.jpg"
         }
       ]
-    },
-    {
-      "type": "custom-html",
-      "html": "<div class=\"padding-big bg-primary\">\n            <div class=\"style-text margin-bottom-15\">\n              <span>Ofertas por e-mail</span>\n              <p>\n                Inscreva-se com seu endereço de e-mail e receba nossas ofertas periodicamente. É grátis!\n              </p>\n            </div>\n            <form action=\"javascript:void(0);\" method=\"post\" name=\"news\">\n              <div class=\"input-group\">\n                <input type=\"email\" name=\"email\" placeholder=\"seuemail@mail.com\" class=\"form-control\" required=\"\">\n                <span class=\"input-group-btn\">\n                  <button class=\"btn btn-primary\" type=\"submit\"> <i class=\"fa fa-paper-plane\"></i> </button>\n                </span>\n              </div>\n            </form>\n          </div>"
     }
   ]
 }
