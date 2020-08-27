@@ -1,22 +1,23 @@
 {
-  "store_id": 1143,
-  "name": "Fishing Co. Moda Pesca",
   "domain": "fishing-co.netlify.app",
-  "short_name": "Fishing-co",
-  "description": "Marketplace Fishing Co. Todos os produtos desta loja você encontra nas melhores lojas do ramo.",
+  "currency_symbol": "R$",
   "primary_color": "#313131",
-  "secondary_color": "#e36159",
-  "bg_color": "#fff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
+  "bg_color": "#fff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Fishing Co. Moda Pesca",
+  "short_name": "Fishing-co",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/25278134057ca73ff0158cc1b9ec6834afd1601d.jpg",
+  "country_code": "BR",
+  "secondary_color": "#e36159",
+  "icon": "/img/uploads/logo.png",
+  "store_id": 1143,
+  "description": "Marketplace Fishing Co. Todos os produtos desta loja você encontra nas melhores lojas do ramo.",
+  "large_icon": "/img/uploads/logo.png"
 }
