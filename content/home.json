@@ -55,17 +55,6 @@
       "title": "",
       "headless": true,
       "sort": "highest_price"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/dia-dos-pais-post-4.jpg"
-        },
-        {
-          "img": "/img/uploads/banner-dia-dos-pais-1.jpg"
-        }
-      ]
     }
   ]
 }
