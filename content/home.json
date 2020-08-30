@@ -55,6 +55,17 @@
       "title": "",
       "headless": true,
       "sort": "highest_price"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/infantil2.png"
+        },
+        {
+          "img": "/img/uploads/infantil1.png"
+        }
+      ]
     }
   ]
 }
