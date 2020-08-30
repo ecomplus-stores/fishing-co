@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".top-bar__countdown {\n    background-color: #000;\n   }\n\n.style-text {\n  text-align: center;\n}\nspan.style-text {\n        font-weight: 700;\n    }\n p.style-text  {\n        font-size: 13px;\n    }\n\n\n.footer{\n    font-size: 85%;\n}\n\n\n\n/* Mobile fixar botão de comprar*/\n@media screen and (max-width: 480px) {\n    .product-card__buy.fade:not(.show) {\n        opacity: 1;\n    }\n}\n\n/* tablet: fixar botão de comprar*/\n@media screen and (min-width: 481px) and (max-width: 991px) {\n    .product-card__buy.fade:not(.show) {\n        opacity: 1;\n    }\n}\n\n",
   "html_head": "",
   "html_body": " "
 }
