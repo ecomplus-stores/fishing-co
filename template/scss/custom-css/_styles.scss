@@ -1,1 +1,40 @@
 // Add your custom CSS here.
+.header  {
+  background: #fff;
+}
+#search-form {
+  border: 1px solid;
+  border-radius: .25rem;
+}
+#user-button i, #cart-button i, .header__search-btn i {
+  color: #000;
+}
+#cart-count {
+  background: #ed1c24;
+}
+.footer {
+  border-top: 0;
+}
+@media(max-width: 767px) {
+  .address-form .form-row .form-group {
+    width: 50%;
+  }
+  .checkout__step--past {
+    color: #000 !important;
+    opacity: .6 !important;
+  }
+  .checkout__step--current {
+    color: var(--success) !important;
+  }
+  .checkout__step--current::after {
+    content: '\A ETAPA 2';
+    white-space: pre;
+    color: var(--success)
+  }
+  .checkout__step--past::after {
+    content: '\A ETAPA 1';
+    white-space: pre;
+    color: #000;
+    opacity: .6;
+  }
+}
