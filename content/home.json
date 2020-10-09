@@ -7,24 +7,22 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-dia-dos-pais-1.jpg",
-          "link": "https://www.fishingco.com.br/masculino/",
-          "alt": "",
-          "start": "",
-          "end": ""
+          "start": "2020-10-09T18:03:36.190Z",
+          "end": "2020-10-09T18:03:36.262Z",
+          "img": "/img/uploads/banner-central-1.jpg",
+          "mobile_img": "/img/uploads/post-1.jpg"
         },
         {
-          "img": "/img/uploads/banners1-dia-dos-pais-2.jpg",
-          "alt": "",
-          "start": "",
-          "end": "",
-          "link": "https://www.fishingco.com.br/masculino/"
+          "start": "2020-10-09T18:07:12.224Z",
+          "end": "2020-10-09T18:07:12.247Z",
+          "img": "/img/uploads/banner-central-2.jpg",
+          "mobile_img": "/img/uploads/post-5.jpg"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-dia-dos-pais-3.jpg",
-          "link": "https://www.fishingco.com.br/masculino/"
+          "start": "2020-10-09T18:08:01.272Z",
+          "end": "2020-10-09T18:08:01.298Z",
+          "img": "/img/uploads/banner-central-3.jpg",
+          "mobile_img": "/img/uploads/post-4.jpg"
         }
       ]
     },
