@@ -7,20 +7,20 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2020-10-09T18:03:36.190Z",
-          "end": "2020-10-09T18:03:36.262Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-central-1.jpg",
           "mobile_img": "/img/uploads/post-1.jpg"
         },
         {
-          "start": "2020-10-09T18:07:12.224Z",
-          "end": "2020-10-09T18:07:12.247Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-central-2.jpg",
           "mobile_img": "/img/uploads/post-5.jpg"
         },
         {
-          "start": "2020-10-09T18:08:01.272Z",
-          "end": "2020-10-09T18:08:01.298Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-central-3.jpg",
           "mobile_img": "/img/uploads/post-4.jpg"
         }
