@@ -38,3 +38,17 @@
     opacity: .6;
   }
 }
+#product-description .container .lead {
+    background: #000;
+    color: #fff;
+    padding: var(--spacer-2);
+    border-radius: 5px 5px 0 0;
+    margin-bottom: 0;
+}
+#product-description .container .html-clearfix {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding: var(--spacer-2);
+    margin-top: 0;
+}
