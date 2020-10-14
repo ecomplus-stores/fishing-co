@@ -53,7 +53,7 @@
     padding: var(--spacer-2);
     margin-top: 0;
 }
-.product-card__buy button, .product__buy button {
+.product-card__buy button, .product-card__buy button:hover, .product__buy button, .product__buy button:hover {
     border: #ed1c24;
     background: #ed1c24;
 }
@@ -66,4 +66,10 @@
 }
 #product-actions .prices__installments span {
  color: #3eb058;
+}
+.shipping-calculator__services .list-group-item.active {
+    z-index: 2;
+    color: var(--primary-lightest-yiq);
+    background-color: #28A745;
+    border-color: #28A745;
 }
