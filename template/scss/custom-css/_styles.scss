@@ -84,3 +84,15 @@ display: none !important;
 .product-card__buy.fade {
   opacity: 1 !important;
 }
+.header {
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+}
+#nav-bar {
+  & a {
+    color: #fff;
+  }
+  padding: 10px;
+  background-color: #000;
+}
