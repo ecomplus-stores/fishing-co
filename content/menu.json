@@ -1,5 +1,12 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "masculino",
+    "feminino",
+    "infantil",
+    "fitness",
+    "acessorios",
+    "liquidation"
+  ],
   "phone_wpp": true,
   "socials": true
 }
