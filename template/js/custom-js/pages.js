@@ -7,5 +7,5 @@ document.getElementById('c-5f40409bf023684cdbdbe5c5').href = '/masculina-recorte
 document.getElementById('c-5f40408ef023684cdbdbe5a8').href = '/capuz-ninja'
 document.getElementById('c-5f404090f023684cdbdbe5ac').href = '/anorak'
 document.getElementById('c-5f4040a6f023684cdbdbe5dd').href = '/mascara'
-document.getElementById('c-5f40408cf023684cdbdbe5a4').href = '/pernitos'
-document.getElementById('c-5f404094f023684cdbdbe5b5').href = '/porta-latas-robalo'
+document.getElementById('c-5f404094f023684cdbdbe5b5').href = '/pernitos'
+document.getElementById('c-5f40408cf023684cdbdbe5a4').href = '/porta-latas-robalo'
