@@ -58,7 +58,7 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-fininho-mascara-1.jpg",
-      "link": "https://www.fishingco.com.br/mascara",
+      "link": "/mascara",
       "mobile_img": "/img/uploads/moda-fitness-post-8.png"
     },
     {
@@ -73,11 +73,11 @@
       "banners": [
         {
           "img": "/img/uploads/whatsapp-image-2020-09-29-at-20.07.50.jpeg",
-          "link": "https://www.fishingco.com.br/acessorios/"
+          "link": "/acessorios"
         },
         {
           "img": "/img/uploads/whatsapp-image-2020-09-28-at-21.02.38.jpeg",
-          "link": "https://www.fishingco.com.br/infantil/"
+          "link": "/infantil"
         }
       ]
     }
