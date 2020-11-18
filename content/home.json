@@ -18,7 +18,7 @@
           "end": "",
           "img": "/img/uploads/fitness-top-e-legging.png",
           "mobile_img": "/img/uploads/moda-fitness-post-7.png",
-          "link": "/masculino"
+          "link": "/fitness"
         },
         {
           "start": "",
@@ -51,7 +51,7 @@
       "type": "responsive-banner",
       "img": "/img/uploads/banner-fininho-mascara-1.jpg",
       "link": "https://www.fishingco.com.br/mascara",
-      "mobile_img": "/img/uploads/moda-fitness-post-9.png"
+      "mobile_img": "/img/uploads/moda-fitness-post-8.png"
     },
     {
       "type": "collection-shelf",
