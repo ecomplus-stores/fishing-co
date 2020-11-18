@@ -10,3 +10,6 @@ document.getElementById('c-5f4040a6f023684cdbdbe5dd').href = '/mascara'
 document.getElementById('c-5f404094f023684cdbdbe5b5').href = '/pernitos'
 document.getElementById('c-5f40409ef023684cdbdbe5cc').href = '/ziper-feminina-2019'
 document.getElementById('c-5f40408cf023684cdbdbe5a4').href = '/porta-latas-robalo'
+document.getElementById('c-5f40409ff023684cdbdbe5ce').href = '/feminina-recorte'
+
+
