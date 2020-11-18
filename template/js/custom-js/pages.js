@@ -14,6 +14,4 @@ document.getElementById('c-5f40409ff023684cdbdbe5ce').href = '/feminina-recorte'
 document.getElementById('c-5f4040a2f023684cdbdbe5d4').href = '/infantil-ninja'
 document.getElementById('c-5f4040a1f023684cdbdbe5d2').href = '/infantil-recorte'
 document.getElementById('c-5f4040a3f023684cdbdbe5d6').href = '/infantil-recorte-estampada'
-
-
-
+document.getElementById('c-5f404093f023684cdbdbe5b3').href = '/manguitos'
