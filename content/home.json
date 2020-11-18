@@ -42,6 +42,14 @@
       "title": "LANÇAMENTOS"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "TOP DE VENDAS"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-fininho-mascara-1.jpg",
       "link": "/mascara",
@@ -66,14 +74,6 @@
           "link": "/infantil"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "TOP DE VENDAS"
     }
   ]
 }
