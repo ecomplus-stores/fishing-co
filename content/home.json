@@ -66,6 +66,14 @@
           "link": "/infantil"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "TOP DE VENDAS"
     }
   ]
 }
