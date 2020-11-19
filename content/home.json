@@ -52,7 +52,7 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-fininho.png",
-      "link": "//fitness",
+      "link": "/fitness",
       "mobile_img": "/img/uploads/moda-fitness-post-8.png"
     },
     {
