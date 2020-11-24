@@ -9,9 +9,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/whatsapp-image-2020-11-08-at-19.20.43-1-.jpeg",
-          "mobile_img": "/img/uploads/whatsapp-image-2020-11-08-at-19.20.43.jpeg",
-          "link": "/ziper-masculina"
+          "img": "/img/uploads/black-friday-banner-1.png",
+          "mobile_img": "/img/uploads/black-friday-post-ads-2.png",
+          "link": "https://lancamentos.fishingco.com.br/index.php/promocao-black-november/"
         },
         {
           "start": "",
@@ -51,9 +51,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-fininho.png",
+      "img": "/img/uploads/banner-fininho-geral.png",
       "link": "/fitness",
-      "mobile_img": "/img/uploads/moda-fitness-post-8.png"
+      "mobile_img": "/img/uploads/black-friday-ads-3.png"
     },
     {
       "type": "collection-shelf",
