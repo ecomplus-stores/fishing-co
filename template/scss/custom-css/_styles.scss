@@ -120,6 +120,6 @@ display: none !important;
 .product__buy button {
     padding: .5rem 4rem;
 }
-#cart-quickview .minicart__btn-checkout.btn.btn-block.btn-primary {
-  display: none;
+#cart-quickview .minicart__btn-checkout.btn.btn-block.btn-primary, .order-info__toggle {
+  display: none !important;
 }
