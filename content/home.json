@@ -9,16 +9,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-central-3.jpg",
-          "mobile_img": "/img/uploads/post-4.jpg",
-          "link": "/feminina-recorte"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/fitness-top-e-legging.png",
-          "mobile_img": "/img/uploads/moda-fitness-post-7.png",
-          "link": "/fitness"
+          "img": "/img/uploads/black-friday_banner-masculino-web.png",
+          "mobile_img": "/img/uploads/black-friday_banner-masculino-mobile.png",
+          "link": "/ziper-masculina"
         }
       ]
     },
@@ -44,9 +37,9 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-fininho.png",
-      "link": "https://www.fishingco.com.br/fitness",
-      "mobile_img": "/img/uploads/moda-fitness-post-9.png"
+      "img": "/img/uploads/black-friday_banner-feminino-web.png",
+      "link": "/ziper-feminina-2019",
+      "mobile_img": "/img/uploads/black-friday_banner-feminino-mobile.png"
     },
     {
       "type": "collection-shelf",
