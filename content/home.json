@@ -28,12 +28,6 @@
       "title": "OFERTAS DA SEMANA"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-central-3.jpg",
-      "link": "/ziper-feminina-2019",
-      "mobile_img": "/img/uploads/black-friday_banner-feminino-mobile.png"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "title": "",
