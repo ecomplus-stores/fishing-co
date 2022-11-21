@@ -17,6 +17,21 @@
       "full_width": true
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-11-21T01:02:38.650Z",
+      "end": "2022-12-04T01:02:38.682Z",
+      "offers": [
+        "5f404d0af023684cdbdbf4fd",
+        "611dba6ccfbcd97059827c6f"
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": false
     },
@@ -26,7 +41,14 @@
       "limit": 12,
       "page": 1,
       "sort": "sales",
-      "title": "OFERTAS DA SEMANA"
+      "title": "OFERTAS DA SEMANA",
+      "headless": false
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-2-_-feminino-_-blacknovemberfishingco_desktop-2-.png",
+      "link": "/feminino",
+      "mobile_img": "/img/uploads/banner-2-_-feminino-_-blacknovemberfishingco_mobile-1-.png"
     },
     {
       "type": "collection-shelf",
@@ -36,17 +58,9 @@
       "sort": "highest_price"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-2-_-feminino-_-blacknovemberfishingco_mobile-1-.png",
-          "link": "/feminino"
-        },
-        {
-          "img": "/img/uploads/banner-3-_-calcas-_-blacknovemberfishingco_mobile-1-.png",
-          "link": "/calcas-masculinas"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-3-_-calcas-_-blacknovemberfishingco_desktop-1-.png",
+      "link": "/calcas-masculinas"
     }
   ]
 }
