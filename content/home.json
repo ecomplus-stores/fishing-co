@@ -9,11 +9,12 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-central-1.jpg",
-          "mobile_img": "/img/uploads/post-1.jpg",
-          "link": "/ziper-masculina"
+          "img": "/img/uploads/banner-1-_-masculino-_-blacknovemberfishingco_desktop-2-.png",
+          "mobile_img": "/img/uploads/banner-1-_-masculino-_-blacknovemberfishingco_mobile-2-.png",
+          "link": "/masculino"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
@@ -38,12 +39,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/whatsapp-image-2020-09-29-at-20.07.50.jpeg",
-          "link": "/acessorios"
+          "img": "/img/uploads/banner-2-_-feminino-_-blacknovemberfishingco_mobile-1-.png",
+          "link": "/feminino"
         },
         {
-          "img": "/img/uploads/whatsapp-image-2020-09-28-at-21.02.38.jpeg",
-          "link": "/infantil"
+          "img": "/img/uploads/banner-3-_-calcas-_-blacknovemberfishingco_mobile-1-.png",
+          "link": "/calcas-masculinas"
         }
       ]
     }
