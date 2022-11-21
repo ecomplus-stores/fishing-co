@@ -17,21 +17,6 @@
       "full_width": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-11-21T01:02:38.650Z",
-      "end": "2022-12-04T01:02:38.682Z",
-      "offers": [
-        "5f404d0af023684cdbdbf4fd",
-        "611dba6ccfbcd97059827c6f"
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": false
     },
@@ -40,9 +25,9 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
-      "title": "OFERTAS DA SEMANA",
-      "headless": false
+      "sort": "news",
+      "title": "",
+      "headless": true
     },
     {
       "type": "responsive-banner",
@@ -55,12 +40,18 @@
       "shuffle": true,
       "title": "",
       "headless": true,
-      "sort": "highest_price"
+      "sort": "sales",
+      "collection_id": "5f40408df023684cdbdbe5a6:categories:BERMUDAS:/bermudas-masculina"
     },
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-3-_-calcas-_-blacknovemberfishingco_desktop-1-.png",
       "link": "/calcas-masculinas"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "lowest_price"
     }
   ]
 }
