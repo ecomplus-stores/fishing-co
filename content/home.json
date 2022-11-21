@@ -21,7 +21,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "news",
       "title": "",
       "headless": true,
       "collection_id": "5f404089f023684cdbdbe59c:categories:MASCULINO:/masculino"
