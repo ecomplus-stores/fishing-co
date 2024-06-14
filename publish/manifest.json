@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c5700ecb63fde11d89915dc991e47433.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.7032fd5149b38d53ce76fcc7bbc06f6a.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ee98d5bc49fb74f1ad952b39c90e22c4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.e79002a631beb347845daf33eb64c638.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.0ba0032b731cdefbb99f73152a182d0f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Fishing Co. Proteção solar upf50+ ",
+  "short_name": "Fishing-co",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Marketplace Fishing Co. Todos os produtos desta loja você encontra nas melhores lojas do ramo.",
+  "background_color": "#fff",
+  "theme_color": "#313131"
+}
